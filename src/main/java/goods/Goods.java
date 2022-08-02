@@ -23,11 +23,4 @@ public class Goods {
         return tax;
     }
 
-    public void setPrice(int price) {
-        this.price = price;
-    }
-
-    public void setTax(double tax) {
-        this.tax = tax;
-    }
 }
